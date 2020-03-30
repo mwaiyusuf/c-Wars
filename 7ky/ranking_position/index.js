@@ -15,7 +15,7 @@ function rankingPosition(){
             'name':'farid',
             'points': 300
         },
-    ]
+    ];
      var sortd = people.points.sort();
 
 }
