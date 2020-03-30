@@ -16,5 +16,6 @@ function rankingPosition(){
             'points': 300
         },
     ]
+     var sortd = people.points.sort();
 
 }
