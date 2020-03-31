@@ -4,7 +4,7 @@ function rankingPosition(){
 
     var people = [
         {
-            'name': 'fahim',
+            'name': 'fahma',
             'points': 450
         },
         {
