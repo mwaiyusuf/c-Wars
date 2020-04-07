@@ -3,6 +3,6 @@ function isOpp(s1,s2){
         return false;
     }
     else{
-        return true;
+        return True;
     }
 }
